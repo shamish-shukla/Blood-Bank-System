@@ -1,0 +1,41 @@
+.donor-content-r1 h2{
+    margin-left:20%;
+    margin-bottom:5px;
+    padding:0px;
+    margin-top: 60px;
+}
+.donor-content hr{
+    width:800px;
+    padding:0px;
+    margin-left:20%;
+    margin-top:0px;
+}
+form{
+    margin-left:20%;
+}
+.form-content-row {
+    margin-bottom:20px;
+    display: flex;
+}
+.form-content-row div{
+    margin-right:50px;
+}
+.form-content-row input{
+    width:220px;
+}
+.form-content-row select{
+    width:228px;
+    padding:2px;
+}
+.add-row-text input{
+    height:50px;
+}
+.donor-content button{
+    background-color: blue;
+    color:white;
+    padding:10px;
+    border:0px;
+    cursor: pointer;
+}
+
+

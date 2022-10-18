@@ -1,0 +1,35 @@
+.search-content h2{
+    margin-left:33%;
+    margin-bottom:5px;
+    padding:0px;
+    margin-top:60px;
+}
+.form-search{
+    margin-left:33%;
+}
+.search-content hr{
+    width:500px;
+    padding:0px;
+    margin-left:33%;
+    margin-top:0px;
+}
+.search-form-row{
+    display: flex;
+}
+.search-content div{
+    margin-right:30px;
+    margin-bottom:10px;
+}
+.search-content input{
+    width:220px;
+
+}
+.reason-text-area input{
+    height:50px;
+}
+.search-content button{
+    background-color: blue;
+    padding:10px;
+    border:0px;
+    color:white;
+}

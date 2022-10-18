@@ -1,0 +1,40 @@
+.login-form{
+    margin-left:30%;
+    margin-top: 100px;
+    width:500px;
+    background-color: aquamarine;
+    height:300px;
+}
+.login-form h2{
+    color:blue;
+    text-align: center;
+    margin-top:10px;
+}
+.login-form form{
+    margin-left:10px;
+    padding:0px;
+}
+.login-form label{
+    margin-left:50px;
+    color:blue;
+}
+.login-form input{
+    margin:10px 10px 10px 50px;
+    width:350px;
+    padding:5px;
+}
+.login-form a{
+    margin-left:50px;
+    text-decoration: none;
+    color:blue;
+}
+.login-form button{
+    padding:10px;
+    background: blue;
+    color:white;
+    text-align: center;
+    border:0px;
+    width:100px;
+    margin-left:180px;
+    margin-top:10px;
+}

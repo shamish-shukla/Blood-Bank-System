@@ -1,0 +1,55 @@
+.about-content img{
+    margin-left:25%;
+
+}
+.about-content h1{
+    text-align: center;
+    color:blue;
+    margin-top:15px;
+}
+.info-general-content{
+    display: flex;
+    margin-left:19%;
+}
+.info-c1{
+    width:250px;
+    max-height:180px;
+    background-color: blue;
+    padding:0pc;
+    margin-top:10px;
+    margin-right:10px;
+
+}
+.info-general-content h3{
+    padding:10px;
+    background-color:blue;
+    margin:0px;
+    color:white;
+}
+.info-c2{
+    width:250px;
+    max-height:180px;
+    background-color: blue;
+    padding:0pc;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:10px;
+
+}
+.info-c3{
+    width:250px;
+    max-height:180px;
+    background-color: blue;
+    padding:0pc;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:10px;
+
+}
+.info-general-content p{
+    color:white;
+    padding:5px;
+    margin:0px;
+    font-style:normal;
+    text-align: justify;
+}
