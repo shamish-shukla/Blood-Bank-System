@@ -1,0 +1,43 @@
+.donorlist_pages{
+    padding:0px;
+    margin:0px;
+    border:0px;
+    display: flex;
+}
+.left_donorlist_pages{
+    width:20%;
+    margin-left: 0px;
+}
+.left_donorlist_pages div{
+    min-width: 100%;
+    max-width: 110%;
+}
+.right_donorlist_pages{
+    width:80%;
+}
+.return_dashboard_pages{
+    background-color: orange;
+    height: 50px;
+}
+.do-right{
+    background-color: orange;
+    width:100%;
+    height:50px;
+}
+.sub_right_donorlist_pages h3{
+    margin-left:20px;
+    margin-top:10px;
+}
+table{
+    margin-left: 10px;
+}
+table tr td {
+    border: 1px solid black;
+}
+td{
+    text-align: center;
+}
+th{
+    border:1px solid black;
+    color:blue;
+}

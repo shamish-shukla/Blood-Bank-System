@@ -1,0 +1,27 @@
+.main_appointment_content h3{
+    margin-left:43%;
+    color:blue;
+
+}
+.main_appointment_content hr{
+    width:370px;
+    margin-left:35%;
+}
+.main_appointment_content form{
+    margin-left:35%;
+}
+.down_appointment_content{
+    margin-top:30%;
+}
+.main_appointment_content  button{
+    margin-left: 35%;
+    border:0px;
+    margin-top:10px;
+    color:white;
+    background-color: blue;
+    padding:5px;
+}
+.appointment_table{
+    margin-top:20px;
+    margin-left:34%;
+}

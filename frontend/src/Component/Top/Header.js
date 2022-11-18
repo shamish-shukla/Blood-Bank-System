@@ -22,6 +22,9 @@ function Header(){
                         <Link to="/donor">Donor</Link>
                     </li>
                     <li>
+                        <Link to="/appointment">Appointment</Link>
+                    </li>
+                    <li>
                         <Link to="/contact">Contact us</Link>
                     </li>
                     <li>

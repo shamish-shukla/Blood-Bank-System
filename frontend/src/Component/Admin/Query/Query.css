@@ -1,0 +1,40 @@
+.query_pages{
+    padding:0px;
+    margin:0px;
+    border:0px;
+    display: flex;
+}
+.left_query_pages{
+    width:20%;
+    margin-left:0px;
+}
+.left_query_pages div{
+    min-width:100%;
+    max-width: 100%;
+}
+.right_query_pages{
+    width:80%;
+}
+.right_query_pages h3{
+    margin-left:10px;
+}
+.do_query{
+    background-color: orange;
+    width:100%;
+    height:50px;
+}
+
+table{
+    margin-left: 10px;
+}
+table tr td {
+    border: 1px solid black;
+    padding:10px;
+}
+td{
+    text-align: center;
+}
+th{
+    border:1px solid black;
+    color:blue;
+}

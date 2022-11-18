@@ -1,0 +1,49 @@
+.admin-header-page{
+    background-color:orange;
+    width:20%;
+    display:block;
+    min-height: 610px;
+}
+.admin-header-page p{
+    margin:0px;
+    color:Red;
+    font-size: 26px;
+    text-align: center;
+    padding-top:10px;
+}
+.admin-header-page ul{
+    padding:0px;
+    margin:0px;
+}
+.admin-header-page img{
+    margin:0px;
+    padding-top:10px;
+    padding-right: 5px;
+}
+.admin-header-page li{
+    list-style: none;
+    padding-top: 10px;
+    padding-left:20px;
+    margin-bottom:20px;
+
+}
+.admin-header-page a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top:30px;
+    padding:0px;
+}
+.admin-logout-options{
+    padding-left:75px;
+    padding-top:64px;
+    display: flex;
+}
+.admin-logout-options button{
+    color:white;
+    background-color: blue;
+    border:0px;
+    padding:5px;
+    margin-left:5px;
+    margin-top: 4px;;
+}

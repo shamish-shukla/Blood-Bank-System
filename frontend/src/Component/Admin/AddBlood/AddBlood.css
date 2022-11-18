@@ -1,0 +1,65 @@
+.addblood-system{
+    margin:0px;
+    padding:0px;
+    border: 0px;
+    display: flex;
+}
+.left-addblood{
+    width:20%;
+    margin-left:0px;
+}
+.left-addblood div{
+    min-width:100%;
+    max-width:100%;
+}
+.right-addblood{
+    width:80%;
+}
+.right-addblood div{
+    background-color: orange;
+    width:100%;
+    height: 50px;
+}
+.right-addblood h3{
+    margin-left:20px;
+    margin-top:30px;
+    margin-bottom: 0px;
+}
+.right-addblood hr{
+    margin-left:5px;
+    margin-right: 5px;
+    padding:0px;
+}
+.top-right-addblood button{
+    margin-left:80%;
+    margin-top: 16px;
+    background-color: blue;
+    border:0px;
+    color:white;
+    padding:5px;
+}
+.row3-col3 form{
+    margin:0px;
+    padding: 0px;
+}
+.row3-col3 h4{
+    color:blue;
+    margin-left:10px;
+}
+.row3-col3 form{
+    margin-left:10px;
+}
+
+.row3-col3 select{
+    width:212px;
+    margin-bottom:20px;
+}
+.row3-col3 input{
+    width:200px;
+}
+.row3-col3 button{
+    background-color: blue;
+    color:white;
+    border:0px;
+    padding:5px;
+}

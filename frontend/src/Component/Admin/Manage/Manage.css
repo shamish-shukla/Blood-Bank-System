@@ -1,0 +1,62 @@
+.managepages{
+    display: flex;
+    margin:0px;
+    padding:0px;
+}
+.left-managepages{
+    margin:0px;
+    padding:0px;
+    width:20%;
+}
+.left-managepages div{
+    width:100%;
+}
+.right-managepages{
+    margin-left:0px;
+    padding:0px;
+    width:80%;
+
+}
+.right-managepages .return_dashboard_pages{
+    background-color: orange;
+    width:100%;
+    height:50px;
+}
+.return_dashboard_pages button{
+    margin-left:80%;
+    margin-top: 16px;
+    background-color: blue;
+    border:0px;
+    color:white;
+    padding:5px;
+}
+.right-managepages h3{
+    margin-left: 10px;
+    margin-top:30px;
+}
+.right-managepages hr{
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+.right-managepages form{
+    margin-left:10px;
+    padding:0px;
+}
+.right-managepages label{
+    color:blue;
+    margin-top:10px;
+    font-weight: 1000;
+}
+.right-managepages form button{
+    background-color: blue;
+    color:white;
+    width:50px;
+    border:0px;
+    padding:10px;
+}
+.right-managepages textarea{
+    width:700px;
+    height:400px;
+}

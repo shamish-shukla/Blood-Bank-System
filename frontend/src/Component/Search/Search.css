@@ -28,8 +28,31 @@
     height:50px;
 }
 .search-content button{
-    background-color: blue;
+    background-color:blue;
     padding:10px;
     border:0px;
     color:white;
+    margin-left:33%;
+}
+
+.bloodsearch{
+    margin-left: 25%;
+    margin-top:10px;
+    background-color:blue;
+    height: 380px;
+    width:300px;
+}
+
+
+.bloodsearch p{
+    margin:1px;
+    padding-left:10px;
+    color:white;
+}
+.bloodsearch button{
+    background-color:black;
+    padding:10px;
+    border:0px;
+    color:white;
+    margin-left:39%;
 }
